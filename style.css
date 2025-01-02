@@ -54,4 +54,10 @@ footer{
     .cards{
         flex-direction: column;
     }
+    header h1{
+        font-size: 80%;
+    }
+    footer p{
+        font-size: large;
+    }
 }
